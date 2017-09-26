@@ -1,0 +1,2 @@
+rolada,chleb0.5,kurczak0.7,maslo0.1,olej0.2
+kanapka,szynka0.3,chleb0.1,maslo0.2
